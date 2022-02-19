@@ -12,4 +12,3 @@ This repo will be used as your site's wp-content folder.
 ## Push to your repo
 
 Git pushes to your repository will be synced to your WordPress site, and any changes you make on your site from WordPress will be pushed to your repo.
-# git-sync-demo
